@@ -1,5 +1,3 @@
-from math import e
-
 
 print("HELLO WORLD")
 
