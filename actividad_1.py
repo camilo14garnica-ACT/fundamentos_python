@@ -2,6 +2,7 @@
 
 #Declara variables para almacenar: tu nombre, apellido, tu número de ficha, nombreprograma, tu edad, tu promedio académico actual y si estás activo en el programa (True/False).
 
+#ACTIVIDAD 1: 
 nombre = "camilo"
 apellido = "Orduz"
 Ficha = "3321349"
